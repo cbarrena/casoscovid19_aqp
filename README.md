@@ -18,5 +18,8 @@ Limpieza de datos: SI. no se tomaron en cuenta los registros que se indican "EN 
 [*] Nro de Casos de Covid-19 por edad segun el sexo femenino 
 [*] Nro de Casos de Covid-19 por edad segun el sexo masculino
 
+##Video Explicativo
+Se encuentra en el repositorio video_covid19.
+
 ## Pertenece a 
 Claudia Barrena Gonzales -U 201721674
