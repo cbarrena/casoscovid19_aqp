@@ -11,14 +11,14 @@ Limpieza de datos: SI. no se tomaron en cuenta los registros que se indican "EN 
 
 ## Analisis Descriptivo.
 
-[*] Nro. de casos por provincia 
+* Nro. de casos por provincia 
 [*] Nro. de casos por metodo de prueba
 [*] Analisis descriptivo de la Edad se personas positivo al covid-19
 [*] Nro de Casos de Covid-19 por Sexo y metodo de prueba 
 [*] Nro de Casos de Covid-19 por edad segun el sexo femenino 
 [*] Nro de Casos de Covid-19 por edad segun el sexo masculino
 
-##Video Explicativo
+## Video Explicativo
 Se encuentra en el repositorio video_covid19.
 
 ## Pertenece a 
